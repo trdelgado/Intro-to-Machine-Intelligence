@@ -16,12 +16,12 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 | Lesson         | Notebook link         | Exercises |
 | :------------- | :------------- | ----| 
-| Introduction | [Intro](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/lecture_01_getting_started.ipynb) | [dictionary](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/exercise_01_dictionary.ipynb) |
-| Model Evaluation | [Model Evaluation](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/lecture_04_control.ipynb) | [copy](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/exercise_02_copy.ipynb), [titanic](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/exercise_03_titanic.ipynb) |
-| Supervised Learning | [Supervised ML](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/lecture_07_numpy.ipynb) | [frequency](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/exercise_05_frequency.ipynb) |
-| Unsupervised Learning | [Unsupervised ML](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/lecture_10_pandas_introduction.ipynb), | [exercise](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/exercise_07_pandas.ipynb) |
-| Semi-supervised Learning | [Semi-supervised ML](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/lecture_12_pandas_groupby.ipynb) | [exercise](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/exercise_08_pandas_titanic.ipynb) |
-| Reinforcement Learning | [Reinforcement ML](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/lecture_17_matplotlib.ipynb) | [hospital comparison](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/exercise_09_matplotlib.ipynb)
-| Deep Learning | [Deep Learning](http://nbviewer.ipython.org/urls/raw.github.com/ResearchComputing/Meetup-Fall-2013/master/python/lecture_14_pandas_reshape.ipynb) | |
-| Summary | [Summary]() | |
-| Final Project | [Final Project]() | |
+| Introduction | [Intro](http://name.ipynb) | [Intro](http://name.ipynb) |
+| Model Evaluation | [Model Evaluation](http://name.ipynb) | [Evaluation](http://name.ipynb) |
+| Supervised Learning | [Supervised ML](http://name.ipynb) | [Super](http://name.ipynb) |
+| Unsupervised Learning | [Unsupervised ML](http://name.ipynb), | [Unsuper](http://name.ipynb) |
+| Semi-supervised Learning | [Semi-supervised ML](http://name.ipynb) | [Semi-Super](http://name.ipynb)|
+| Reinforcement Learning | [Reinforcement ML](http://name.ipynb) | [Reinforcement](http://name.ipynb)
+| Deep Learning | [Deep Learning](http://name.ipynb) | [Deep](http://name.ipynb) |
+| Summary | [Summary](http://name.ipynb) | [Summary](http://name.ipynb) |
+| Final Project | [Final Project](http://name.ipynb) | [Final](http://name.ipynb) |
