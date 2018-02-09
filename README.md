@@ -18,15 +18,15 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 | Lesson         | Video         | Slides         | Notebook link         | Exercises |
 | :------------- | :------------- | ----| 
-| Introduction | [Intro](http://name.ipynb) | [Intro](http://name.ipynb) |
-| Model Evaluation | [Model Evaluation](http://name.ipynb) | [Evaluation](http://name.ipynb) |
-| Supervised Learning | [Supervised ML](http://name.ipynb) | [Super](http://name.ipynb) |
-| Unsupervised Learning | [Unsupervised ML](http://name.ipynb), | [Unsuper](http://name.ipynb) |
-| Semi-supervised Learning | [Semi-supervised ML](http://name.ipynb) | [Semi-Super](http://name.ipynb)|
-| Reinforcement Learning | [Reinforcement ML](http://name.ipynb) | [Reinforcement](http://name.ipynb)
-| Deep Learning | [Deep Learning](http://name.ipynb) | [Deep](http://name.ipynb) |
-| Summary | [Summary](http://name.ipynb) | [Summary](http://name.ipynb) |
-| Final Project | [Final Project](http://name.ipynb) | [Final](http://name.ipynb) |
+| Introduction | | | [Intro](http://name.ipynb) | [Intro](http://name.ipynb) |
+| Model Evaluation | | | [Model Evaluation](http://name.ipynb) | [Evaluation](http://name.ipynb) |
+| Supervised Learning | | | [Supervised ML](http://name.ipynb) | [Super](http://name.ipynb) |
+| Unsupervised Learning | | | [Unsupervised ML](http://name.ipynb), | [Unsuper](http://name.ipynb) |
+| Semi-supervised Learning | | | [Semi-supervised ML](http://name.ipynb) | [Semi-Super](http://name.ipynb)|
+| Reinforcement Learning | | | [Reinforcement ML](http://name.ipynb) | [Reinforcement](http://name.ipynb)
+| Deep Learning | | | [Deep Learning](http://name.ipynb) | [Deep](http://name.ipynb) |
+| Summary | | | [Summary](http://name.ipynb) | [Summary](http://name.ipynb) |
+| Final Project | | | [Final Project](http://name.ipynb) | [Final](http://name.ipynb) |
 
 Thanks!
 Tairi R. Delgado
