@@ -16,17 +16,17 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 [Google Course Link](https://classroom.google.com/c/MTE0OTE5NTA1NjNa)
 
-| Lesson         | Link |
-| :------------- | :------------------ |
-| Introduction | [Intro](http://name.ipynb) |
-| Model Evaluation | [Evaluation](http://name.ipynb) |
-| Supervised Learning | [Super](http://name.ipynb) |
-| Unsupervised Learning | [Unsuper](http://name.ipynb) |
-| Semi-supervised Learning | [Semi-Super](http://name.ipynb)|
-| Reinforcement Learning | [Reinforcement](http://name.ipynb)
-| Deep Learning | [Deep](http://name.ipynb) |
-| Summary | [Summary](http://name.ipynb) |
-| Final Project | [Final](http://name.ipynb) |
+|  #  | Lesson         | Link |
+| :---- | :------------- | :------------------ |
+| 1. | Introduction | [Intro](http://name.ipynb) |
+| 2. | Model Evaluation | [Evaluation](http://name.ipynb) |
+| 3. | Supervised Learning | [Super](http://name.ipynb) |
+| 4. | Unsupervised Learning | [Unsuper](http://name.ipynb) |
+| 5. | Semi-supervised Learning | [Semi-Super](http://name.ipynb)|
+| 6. | Reinforcement Learning | [Reinforcement](http://name.ipynb)
+| 7. | Deep Learning | [Deep](http://name.ipynb) |
+| 8. | Summary | [Summary](http://name.ipynb) |
+| 9. | Final Project | [Final](http://name.ipynb) |
 
 Thanks!
 
