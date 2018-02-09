@@ -2,13 +2,13 @@
 Introductory course covering the landscape of Machine Learning
 
 ### Course Description
-Under Construction
+Learn the basics of machine learning and how to apply predictive models with intutive and interactive tutorial lessons using jupyter notebooks!
 
 ### Prerequistes
-- Programing (Python)
-- Statistics
-- Linear Algebra
-- Calculus
+- [Python Programing](https://www.python.org/)
+- [Statistics](https://www.khanacademy.org/math/statistics-probability)
+- [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+- [Calculus](https://www.khanacademy.org/math/ap-calculus-ab)
 
 ### Install
 
