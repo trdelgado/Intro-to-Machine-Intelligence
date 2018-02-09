@@ -16,7 +16,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 [Google Course Link](https://classroom.google.com/c/MTE0OTE5NTA1NjNa)
 
-| Lesson         | Notebook link         | Exercises |
+| Lesson         | Video         | Slides         | Notebook link         | Exercises |
 | :------------- | :------------- | ----| 
 | Introduction | [Intro](http://name.ipynb) | [Intro](http://name.ipynb) |
 | Model Evaluation | [Model Evaluation](http://name.ipynb) | [Evaluation](http://name.ipynb) |
