@@ -14,6 +14,8 @@ You will also need to have software installed to run and execute a [Jupyter Note
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 3 installer and not the Python 2 installer.
 
+[Google Course Link](https://classroom.google.com/c/MTE0OTE5NTA1NjNa)
+
 | Lesson         | Notebook link         | Exercises |
 | :------------- | :------------- | ----| 
 | Introduction | [Intro](http://name.ipynb) | [Intro](http://name.ipynb) |
@@ -25,3 +27,6 @@ If you do not have Python installed yet, it is highly recommended that you insta
 | Deep Learning | [Deep Learning](http://name.ipynb) | [Deep](http://name.ipynb) |
 | Summary | [Summary](http://name.ipynb) | [Summary](http://name.ipynb) |
 | Final Project | [Final Project](http://name.ipynb) | [Final](http://name.ipynb) |
+
+Thanks!
+Tairi R. Delgado
