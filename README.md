@@ -18,15 +18,15 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 | Lesson         | Video         | Slides         | Notebook link         | Exercises |
 | :------------- | :------------- | :----| 
-| Introduction | [Intro] | [Intro] | [Intro](http://name.ipynb) | [Intro](http://name.ipynb) |
-| Model Evaluation | [Intro] | [Intro] | [Model Evaluation](http://name.ipynb) | [Evaluation](http://name.ipynb) |
-| Supervised Learning | [Intro] | [Intro] | [Supervised ML](http://name.ipynb) | [Super](http://name.ipynb) |
-| Unsupervised Learning | [Intro] | [Intro] | [Unsupervised ML](http://name.ipynb), | [Unsuper](http://name.ipynb) |
-| Semi-supervised Learning | [Intro] | [Intro] | [Semi-supervised ML](http://name.ipynb) | [Semi-Super](http://name.ipynb)|
-| Reinforcement Learning | [Intro] | [Intro] | [Reinforcement ML](http://name.ipynb) | [Reinforcement](http://name.ipynb)
-| Deep Learning | [Intro] | [Intro] | [Deep Learning](http://name.ipynb) | [Deep](http://name.ipynb) |
-| Summary | [Intro] | [Intro] | [Summary](http://name.ipynb) | [Summary](http://name.ipynb) |
-| Final Project | [Intro] | [Intro] | [Final Project](http://name.ipynb) | [Final](http://name.ipynb) |
+| Introduction | [Video]() | [Slides]() | [Intro](http://name.ipynb) | [Intro](http://name.ipynb) |
+| Model Evaluation | [Video]() | [Slides]() | [Model Evaluation](http://name.ipynb) | [Evaluation](http://name.ipynb) |
+| Supervised Learning | [Video]() | [Slides]() | [Supervised ML](http://name.ipynb) | [Super](http://name.ipynb) |
+| Unsupervised Learning | [Video]() | [Slides]() | [Unsupervised ML](http://name.ipynb), | [Unsuper](http://name.ipynb) |
+| Semi-supervised Learning | [Video]() | [Slides]() | [Semi-supervised ML](http://name.ipynb) | [Semi-Super](http://name.ipynb)|
+| Reinforcement Learning | [Video]() | [Slides]() | [Reinforcement ML](http://name.ipynb) | [Reinforcement](http://name.ipynb)
+| Deep Learning | [Video]() | [Slides]() | [Deep Learning](http://name.ipynb) | [Deep](http://name.ipynb) |
+| Summary | [Video]() | [Slides]() | [Summary](http://name.ipynb) | [Summary](http://name.ipynb) |
+| Final Project | [Video]() | [Slides]() | [Final Project](http://name.ipynb) | [Final](http://name.ipynb) |
 
 Thanks!
 
