@@ -1,6 +1,15 @@
 # Intro-to-Machine-Intelligence
 Introductory course covering the landscape of Machine Learning
 
+### Course Description
+Under Construction
+
+### Prerequistes
+- Programing (Python)
+- Statistics
+- Linear Algebra
+- Calculus
+
 ### Install
 
 Requires **Python 3** and the following Python libraries installed:
