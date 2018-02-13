@@ -27,7 +27,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 |  #  | Lesson         | Description |
 | :---- | :------------- | :------------------------------------------------------------------------------------- |
-| 1. | [Introduction](https://www.youtube.com/watch?v=xLzx4aHX53k&feature=youtu.be) | UNDER CONSTRUCTION |
+| 1. | [Introduction](https://colab.research.google.com/drive/1agAS03p7p3Shw_zV2TE52dmoaYRnewzx#scrollTo=-CRw5r1bplPa) | UNDER CONSTRUCTION |
 | 2. | [Model Evaluation](http://name.ipynb) | UNDER CONSTRUCTION |
 | 3. | [Supervised Learning](http://name.ipynb) | UNDER CONSTRUCTION |
 | 4. | [Unsupervised Learning](http://name.ipynb) | UNDER CONSTRUCTION |
