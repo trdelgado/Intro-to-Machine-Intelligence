@@ -28,14 +28,15 @@ If you do not have Python installed yet, it is highly recommended that you insta
 |  #  | Lesson         | Description |
 | :---- | :------------- | :------------------------------------------------------------------------------------- |
 | 1. | [Introduction](https://colab.research.google.com/drive/1agAS03p7p3Shw_zV2TE52dmoaYRnewzx#scrollTo=-CRw5r1bplPa) | UNDER CONSTRUCTION |
-| 2. | [Model Evaluation](http://name.ipynb) | UNDER CONSTRUCTION |
-| 3. | [Supervised Learning](http://name.ipynb) | UNDER CONSTRUCTION |
-| 4. | [Unsupervised Learning](http://name.ipynb) | UNDER CONSTRUCTION |
-| 5. | [Semi-supervised Learning](http://name.ipynb)| UNDER CONSTRUCTION |
-| 6. | [Reinforcement Learning](http://name.ipynb) | UNDER CONSTRUCTION |
-| 7. | [Deep Learning](http://name.ipynb) | UNDER CONSTRUCTION |
-| 8. | [Summary](http://name.ipynb) | UNDER CONSTRUCTION |
-| 9. | [Final Project](http://name.ipynb) | UNDER CONSTRUCTION |
+| 2. | [Data Management and Analysis](https://colab.research.google.com/drive/1agAS03p7p3Shw_zV2TE52dmoaYRnewzx#scrollTo=uauMFaqRpp4b) | UNDER CONSTRUCTION |
+| 3. | [Model Evaluation](http://name.ipynb) | UNDER CONSTRUCTION |
+| 4. | [Supervised Learning](http://name.ipynb) | UNDER CONSTRUCTION |
+| 5. | [Unsupervised Learning](http://name.ipynb) | UNDER CONSTRUCTION |
+| 6. | [Semi-supervised Learning](http://name.ipynb)| UNDER CONSTRUCTION |
+| 7. | [Reinforcement Learning](http://name.ipynb) | UNDER CONSTRUCTION |
+| 8. | [Deep Learning](http://name.ipynb) | UNDER CONSTRUCTION |
+| 9. | [Summary](http://name.ipynb) | UNDER CONSTRUCTION |
+| 10. | [Final Project](http://name.ipynb) | UNDER CONSTRUCTION |
 
 Thanks!
 
