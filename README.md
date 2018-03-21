@@ -27,8 +27,8 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 |  #  | Lesson         | Description |
 | :---- | :------------- | :------------------------------------------------------------------------------------- |
-| 1. | [Introduction](https://drive.google.com/open?id=1XJKvIRxfo8G4K1m_m9JLoSbPYy1mDU_O) | UNDER CONSTRUCTION |
-| 2. | [Data Management and Analysis](https://colab.research.google.com/drive/1agAS03p7p3Shw_zV2TE52dmoaYRnewzx#scrollTo=uauMFaqRpp4b) | UNDER CONSTRUCTION |
+| 1. | [Introduction](https://drive.google.com/open?id=1kibaeFLczeD_0Pw7cKHZs81txoz0bp4g) | UNDER CONSTRUCTION |
+| 2. | [Data Management and Analysis](http://name.ipynb) | UNDER CONSTRUCTION |
 | 3. | [Model Evaluation](http://name.ipynb) | UNDER CONSTRUCTION |
 | 4. | [Supervised Learning](http://name.ipynb) | UNDER CONSTRUCTION |
 | 5. | [Unsupervised Learning](http://name.ipynb) | UNDER CONSTRUCTION |
