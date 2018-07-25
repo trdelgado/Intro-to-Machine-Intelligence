@@ -27,7 +27,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 |  #  | Lesson         | Description |
 | :---- | :------------- | :------------------------------------------------------------------------------------- |
-| 1. | [Introduction](https://drive.google.com/open?id=1kibaeFLczeD_0Pw7cKHZs81txoz0bp4g) | UNDER CONSTRUCTION |
+| 1. | [Introduction](https://github.com/trdelgado/Intro-Machine-Intelligence/blob/master/Machine%20Intelligence.ipynb) | UNDER CONSTRUCTION |
 | 2. | [Data Management and Analysis](http://name.ipynb) | UNDER CONSTRUCTION |
 | 3. | [Model Evaluation](http://name.ipynb) | UNDER CONSTRUCTION |
 | 4. | [Supervised Learning](http://name.ipynb) | UNDER CONSTRUCTION |
